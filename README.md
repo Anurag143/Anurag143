@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Gedam</h1>
 <h3 align="center">🚀 Aspiring Product Manager | 🔍 Product Research | 🤖 AI & Data-Driven Decision Making</h3>
+<img width="736" height="414" alt="download" src="https://github.com/user-attachments/assets/bb154e77-8e11-4806-8a6b-894a541e94b1" />
 
 <p align="center">
 📍 Nagpur, India • 🎓 YCCE Nagpur • 💡 Building AI-Powered Product Solutions
