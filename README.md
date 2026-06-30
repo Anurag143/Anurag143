@@ -6,7 +6,6 @@
 <p align="center">
   <img width="736" height="414" alt="download" src="https://github.com/user-attachments/assets/bb154e77-8e11-4806-8a6b-894a541e94b1" />
 </p>
----
 
 ## 👨‍💻 About Me
 
