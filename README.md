@@ -171,7 +171,6 @@ Built an AI-powered customer feedback analysis platform using **Gemini AI** that
 
 💼 **LinkedIn:** www.linkedin.com/in/anurag-gedam-406a48225
 
-💻 **GitHub:** github.com/Anu3278
 
 📍 **Location:** Nagpur, India
 
